@@ -1,6 +1,6 @@
 # assignment
 
-1. REad data
+1. Read data
 2. created some time based features
 - Deltas from last day
 - Deltas from last 7 days
